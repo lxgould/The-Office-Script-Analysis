@@ -3,8 +3,8 @@
 This repository is for practicing making shiny packages with golem.  
 
 1. Instructions come from the blog site for [Stoltzman Consulting](https://www.stoltzmanconsulting.com/blog).  
-1. The data file comes from [Data World] (https://data.world/abhinavr8/the-office-scripts-dataset).
-1. Episode ratings are from the [Kaggle Site] (https://www.kaggle.com/kapastor/the-office-imdb-ratings-per-episode).  
+1. The data file comes from [Data World](https://data.world/abhinavr8/the-office-scripts-dataset).
+1. Episode ratings are from the [Kaggle Site](https://www.kaggle.com/kapastor/the-office-imdb-ratings-per-episode).  
 
 ## BLOG Links
 
